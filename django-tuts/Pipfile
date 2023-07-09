@@ -9,6 +9,10 @@ psycopg2-binary = "*"
 coverage = "*"
 django-debug-toolbar = "*"
 django-rest-framework = "*"
+pygments = "*"
+httpie = "*"
+pytest = "*"
+pytest-mock = "*"
 
 [dev-packages]
 
