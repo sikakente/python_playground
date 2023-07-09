@@ -8,6 +8,7 @@ django = "*"
 psycopg2-binary = "*"
 coverage = "*"
 django-debug-toolbar = "*"
+django-rest-framework = "*"
 
 [dev-packages]
 
